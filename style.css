@@ -176,14 +176,14 @@ p {
   }
 
 
-div.picture1 {
-   display:inline-block;
+.picture1 {
+   display:flex;
    width:30vw;
    height:30vw;
    max-width: 230px;
    max-height: 230px;
    border-radius: 100%;
-   background-image:url('images/about/seva.jpg');
+   background-image:url('images/about/seva.jpeg');
    margin:0;
    padding:0;
 }
