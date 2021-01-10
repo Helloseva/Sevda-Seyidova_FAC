@@ -177,7 +177,7 @@ p {
 
 
 div.picture1 {
-   display:flex;
+   display:inline-block;
    width:30vw;
    height:30vw;
    max-width: 230px;
